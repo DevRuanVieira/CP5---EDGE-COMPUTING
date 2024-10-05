@@ -20,6 +20,7 @@ Para rodar o código, você vai precisar das seguintes bibliotecas instaladas no
 - **DHT Sensor Library** para leitura de temperatura e umidade.
 - **Adafruit Unified Sensor** para suporte aos sensores.
 - **PubSubClient** para comunicação MQTT.
+- Arduino ESP32 Boards
 
 ## Esquema de Conexão
 
