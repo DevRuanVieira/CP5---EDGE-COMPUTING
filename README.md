@@ -56,6 +56,7 @@ Para rodar o código, você vai precisar das seguintes bibliotecas instaladas no
 - Ruan Melo, RM: 557599
 - Rodrigo Jimenez RM: 558148
 - Pedro Josué RM: 554913
+- Lucca Saraiva Borges RM:554608
 
 
    
