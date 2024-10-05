@@ -33,6 +33,9 @@ Para rodar o código, você vai precisar das seguintes bibliotecas instaladas no
 - O outro terminal do **LDR** conectado a um **resistor de 10kΩ** que vai para o **GND**.
 - O ponto comum entre o LDR e o resistor vai ao pino analógico (Ex: A0) do **ESP32**.
 
+![image](https://github.com/user-attachments/assets/a036bc54-54cb-4b99-9621-687dde51cb71)
+
+
 ## Instalação
 
 1. **Configuração do Broker MQTT**: 
